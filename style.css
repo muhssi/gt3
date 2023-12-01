@@ -1,0 +1,39 @@
+.btn {
+    font-size: 1.5rem;
+    border: none;
+    margin: 1rem 0;
+    padding: 1rem 1rem;
+    border-inline-end: rgb(133, 166, 179);
+    cursor: pointer;
+    text-decoration: none;
+    background: transparent;
+    border: 3.3px solid rgb(169, 166, 166);
+}
+.btn2 {
+    background-image: url(992.jpeg);
+    font-size: 1rem;
+    text-align: center;
+    text-size-adjust: 10px;
+    width: 50%;
+    height: 2cm;
+    border-radius: 40px;
+    padding: 3rem 3rem;
+    border-inline-end: skyblue;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.bg {
+    background-image: url(2019-porsche-gt3-rs.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.pic {
+    background-image: url(111.jpeg);
+}
+.bg2 {
+background-image: url(111.jpeg);
+}
+.maq {
+    te
+}
